@@ -1,6 +1,12 @@
 # GithubForDev
 เรียนฟรี!! GithHub For Developer 2 ชั่วโมงเต็ม ตั้งแต่เริ่มต้นจนถึงระดับมือโปร
 
+# Hello world
+สวัสดีครับ
+
+มี template สำหรับสร้าง readme.md
+https://readme.so/editor
+
 
 # Project Title
 
